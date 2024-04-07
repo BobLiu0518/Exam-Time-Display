@@ -2,7 +2,7 @@
 
 ## 使用方法
 
-1. 在班级电脑上打开本项目的 [GitHub Pages](https://bobliu0518.github.io/Exam-Time-Display/) 页面
+1. 在班级电脑上打开本项目的 [GitHub Pages](https://exam.bobliu.tech/) 页面
 
    当然，你也可以选择把 index.html 下载到本地打开
 
